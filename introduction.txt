@@ -1,0 +1,4 @@
+วิธีใช้ : python3 bayon3d.py
+วิธีใช้ Termux : python bayon3d.py
+
+
